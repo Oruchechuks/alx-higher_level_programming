@@ -15,4 +15,7 @@ elif l_digit == 0:
     print(" and is 0")
 else:
     print(" and is less than 6 and not 0")
+<<<<<<< HEAD
 
+=======
+>>>>>>> 657709c0aaa5e05fba1b69543fa45397b62bcf0c
